@@ -5,14 +5,14 @@ A machine learning project predicting customer churn for an e-commerce platform,
 **Course:** BA 360 — Business Data Mining
 **Authors:** Aicha Hriz, Malek Omri, Sirine Othmene
 **Supervisor:** Pr. El Moubarki Lassad
-**Institution:** Tunis Business School — University of Tunis
+**Institution:** Tunis Business School, University of Tunis
 **Date:** April 2026
 
 ---
 
 ## 📌 Project Overview
 
-Customer churn is costly for e-commerce businesses — losing a customer means lost revenue and higher acquisition costs to replace them. This project builds a full machine learning pipeline to **predict which customers are likely to churn** and **identify the key behavioral drivers behind it**, enabling targeted, cost-effective retention strategies before customers are lost.
+Customer churn is costly for e-commerce businesses, losing a customer means lost revenue and higher acquisition costs to replace them. This project builds a full machine learning pipeline to **predict which customers are likely to churn** and **identify the key behavioral drivers behind it**, enabling targeted, cost-effective retention strategies before customers are lost.
 
 ## 📊 Dataset
 
@@ -104,18 +104,6 @@ The pipeline follows a structured, end-to-end ML workflow:
 - Explore XGBoost / LightGBM
 - Build a deployment-ready prediction API
 - Run a controlled retention experiment to measure real causal impact
-
-## 📁 Repository Structure
-
-```
-Ecommerce-Customer-Churn-Prediction/
-├── README.md
-├── Report.pdf                       # Full project report
-├── notebook.ipynb                   # Main analysis notebook
-├── E_Commerce_Dataset.xlsx          # Raw dataset
-└── ...                              # Additional project files
-```
-*(Update this to match your actual file names once uploaded.)*
 
 ## 📄 Full Report
 
